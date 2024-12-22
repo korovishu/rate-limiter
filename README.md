@@ -1,4 +1,4 @@
-#How It Works:
+## How It Works:
 
 Server:
 * The RateLimiter class keeps track of the timestamps of requests from each client IP.
@@ -8,6 +8,6 @@ Client:
 * Sends a series of messages to the server.
 * Prints the server's response for each message.
 
-#Run Instructions:
+## Run Instructions:
 * Start the server by running the server script.
 * Run the client script to simulate requests.
